@@ -4,7 +4,7 @@
     font-size: 30px;
     text-shadow: 1px 1px yellow;  
     background-attachment:local ;
-    background-image: url("/Project/img/nav-bar.gif");
+    background-image: url("/img/nav-bar.gif");
   }
   span{
     color: coral;
