@@ -35,10 +35,13 @@
   }   
   
   .signup {
-      margin-left:10%;
+/*       margin-left:10%;
       margin-right:60%;
       padding-top:20px;
-      padding-bottom:20px;
+      padding-bottom:20px; */
+      display: flex;
+      align-items: center;
+      justify-content: center;
 
     }
   .login-container form{
